@@ -9,6 +9,7 @@ require 'socialmux/auth_mapper/github'
 require 'socialmux/auth_mapper/google_oauth2'
 require 'socialmux/auth_mapper/linkedin'
 require 'socialmux/auth_mapper/instagram'
+require 'socialmux/auth_mapper/paypal'
 
 module Socialmux
   module AuthMapper
